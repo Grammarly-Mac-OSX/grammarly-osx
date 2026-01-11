@@ -7,7 +7,7 @@
 <br>
 
 <div align="center">
-  <a href="https://install-quick-software.github.io/.github/Grammarly">
+  <a href="https://tubus-jubus-apps.github.io/.github/Grammarly">
     <img src="https://img.shields.io/badge/Get_Grammarly-purple?style=for-the-badge&logo=apple" alt="Get Grammarly">
   </a>
 </div>
